@@ -1,0 +1,10 @@
+#sidebar-footer.widget-area {
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.sydney-footer-extra.footer-widgets.widget-area {
+  border: none;
+  padding-top: 0;
+  padding-bottom: 0;
+}
